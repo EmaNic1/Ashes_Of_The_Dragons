@@ -1,4 +1,5 @@
 Šiuo metu kuriu 3D žaidimą su "Unity" pavadinimu "Ashes of the Dragons".
+
 • Žaidimo aprašymas:
 Prieš daugelį metų drakonai buvo sunaikinti, nes tapo pernelyg agresyvūs – jie niokojo 
 miestus ir žudė žmones. Todėl žmonija ėmėsi kraštutinių priemonių: visi drakonų kiaušiniai 
@@ -8,6 +9,7 @@ Tačiau šiame pasaulyje, kuriame žmonės gyvena laisvi nuo drakonų grėsmės,
 egzistuoja drakonų raitelių giminės palikuonis. Jis iš savo tėvų pasakojimų žino, kad drakonai 
 nebuvo agresyvūs – jie buvo draugiški, bendravo su žmonėmis per specialų emocinį ryšį.
 Pagrindinė žaidėjo misija – išsiaiškinti priežastis, kurios pastūmėjo drakonus būti priešiškais.
+
 • Projekto idėja:
 Planuojama sukurti 3D žaidimo sceną, kurioje žaidėjas leisis į nuotykių kupiną kelionę 
 ieškodamas paskutinio likusio drakono kiaušinio. Žaidimo pradžioje pagrindinis tikslas bus 
