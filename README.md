@@ -1,5 +1,7 @@
 Šiuo metu kuriu 3D žaidimą su "Unity" pavadinimu "Ashes of the Dragons".
 
+Šį projektą galima rasti "Google drive" saugykolje: https://drive.google.com/drive/folders/1QVbiebOocEQzr29gmGNo4yU7vsyxnHjL?usp=sharing
+
 • Žaidimo aprašymas:
 Prieš daugelį metų drakonai buvo sunaikinti, nes tapo pernelyg agresyvūs – jie niokojo 
 miestus ir žudė žmones. Todėl žmonija ėmėsi kraštutinių priemonių: visi drakonų kiaušiniai 
